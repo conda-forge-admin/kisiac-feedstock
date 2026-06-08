@@ -153,6 +153,3 @@ Feedstock Maintainers
 
 * [@johanneskoester](https://github.com/johanneskoester/)
 
-
-<!-- dummy commit to enable rerendering -->
-
